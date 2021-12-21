@@ -54,9 +54,9 @@ public class OpenNLPChatBot {
 		questionAnswer.put("greeting", "Hello, how can I help you?");
 		questionAnswer.put("product-inquiry",
 				"Product is a TipTop mobile phone. It is a smart phone with latest features like touch screen, blutooth etc.");
-		questionAnswer.put("price-inquiry", "Price is $300");
+		questionAnswer.put("price-inquiry", "Price is $500");
 		questionAnswer.put("conversation-continue", "What else can I help you with?");
-		questionAnswer.put("conversation-complete", "Nice chatting with you. Bbye.");
+		questionAnswer.put("conversation-complete", "Nice chatting with you. bye.");
 
 	}
 
