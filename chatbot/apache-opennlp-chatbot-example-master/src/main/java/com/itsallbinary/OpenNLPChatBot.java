@@ -155,6 +155,8 @@ public class OpenNLPChatBot {
 		// Get best possible category.
 		double[] probabilitiesOfOutcomes = myCategorizer.categorize(finalTokens);
 		String category = myCategorizer.getBestCategory(probabilitiesOfOutcomes);
+		
+		
 		System.out.println("Category: " + category);
 
 		return category;
