@@ -48,6 +48,10 @@ In total we used 4 trained NLP models from Apache OpenNLP (`en-sent.bin`, `en-to
 - Step 3: Run this file from the directory where it resides. The `ProBot.java` runs in the console (background).
 - Step 4: Run the `ChatBotUI.java` for a GUI, by or by right-clicking the file from Eclipse project. And it should pop-up a UI in the foreground. 
 
+### Observed output of our program
+
+
+
 ## Related References
 
 [1] <https://opennlp.apache.org/models.html>
