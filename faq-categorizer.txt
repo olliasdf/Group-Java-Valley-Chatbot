@@ -1,0 +1,4 @@
+greeting	 hi hi. hello how are you hey . hows it going good morning good evening good afternoon howdy hey good day hello
+conversation-continue	 ok wow great oh is it  oh ohh Thats great Good Really hmm lemme think hm hmmm hmmmmm
+conversation-complete	 Thanks done that's all thats it. thats it I am done Thank you for information Thank. thanks. thank you. thanks nothing else thats it.
+question  				Who is? Tell me about?  Where is ?  What is ? Can you tell me about?  What is an  What is the What is a   ?  What is  ?  Tell me from  Can I ask about  Would you tell me  Help on Explain me  Can you explain me Could you explain Could you tell me about?
