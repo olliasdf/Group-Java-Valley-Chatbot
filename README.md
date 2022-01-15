@@ -50,7 +50,7 @@ In total we used 4 trained NLP models from Apache OpenNLP (`en-sent.bin`, `en-to
 
 ### Observed output of our program
 
-
+![](https://github.com/olliasdf/Group-Java-Valley-Chatbot/blob/main/IR-P05.jpg)
 
 ## Related References
 
