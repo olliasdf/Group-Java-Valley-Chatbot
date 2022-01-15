@@ -9,6 +9,6 @@ along with text or ask feedback from the user in the GUI! As a final result, we 
 GUI where user can search in a "chat like experience".
 
 
-# `Abstract`
+## `Abstract`
 
 We plan to create an automated chat agent that is designed for querying files present in the system. The files that we are using for this use case is only text files. User will ask the bot is expected to reply with greetings, answers to questions about content present in the files etc. We have a sample search space as text files for implementing this use case. We built a GUI in Java Swing to have a chat-like experience.
